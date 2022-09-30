@@ -1,4 +1,4 @@
-![]()
+![](/images/ConceptualFigure.jpg)
 # Resources
 1. [The EZ-Diffusion Model](https://www.ejwagenmakers.com/EZ.html)
 - This is a small JavaScript program that computes the parameter values for the EZ-diffusion model
